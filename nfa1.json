@@ -1,0 +1,12 @@
+{
+	"name": "<Nilo Alvarado>",
+	"bio": "software engineer 💻 | data scientist 📈 | open source software contributor 🐙",
+	"image": "<https://ibb.co/zbN3dbv>",
+	"categories": [{
+		"slug": "programming | software-development | web-development | mobile-development | data-science",
+		"topics": []
+	}],
+	"contacts": {
+		"twitter": "<nilofalvarado>"
+	}
+}
